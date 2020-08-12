@@ -10,6 +10,7 @@ namespace Polyglot
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("testing branches");
         }
     }
 }
