@@ -1,0 +1,206 @@
+достигать#achieve#achieved#achieved
+добавлять#add#added#added
+соглашаться#agree#agreed#agreed
+позволять, разрешать#allow#allowed#allowed
+отвечать#answer#answered#answered
+появляться#appear#appeared#appeared
+одобрять#approve#approved#approved
+подниматься#arise#arose#arisen
+спрашивать#ask#asked#asked
+избегать#avoid#avoided#avoided
+пробуждать#awake#awoke#awoken
+быть#be#was (were)#been
+рожать, переносить#bear#bore#born
+бить#beat#beat#beaten
+становиться#become#became#become
+начинать#begin#began#begun
+верить#believe#believed#believed
+наклонять#bend#bent#bent
+заключать пари#bet#bet#bet
+связывать#bind#bound#bound
+кусать#bite#bit#bitten
+кровоточить#bleed#bled#bled
+дуть#blow#blew#blown
+ломать#break#broke#broken
+разводить животных#breed#bred#bred
+приносить#bring#brought#brought
+строить#build#built#built
+покупать#buy#bought#bought
+звонить#call#called#called
+отменять#cancel#cancelled#cancelled
+нести#carry#carried#carried
+ловить#catch#caught#caught
+менять#change#changed#changed
+выбирать#choose#chose#chosen
+цепляться#cling#clung#clung
+закрывать#close#closed#closed
+приходить#come#came#come
+соединять#connect#connected#connected
+продолжать#continue#continued#continued
+готовить еду#cook#cooked#cooked
+стоить#cost#cost#cost
+создавать#create#created#created
+плакать#cry#cried#cried
+резать#cut#cut#cut
+танцевать#dance#danced#danced
+вести дела#deal#dealt#dealt
+решать#decide#decided#decided
+зависеть#depend#depended#depended
+развивать#develop#developed#developed
+умирать#die#died#died
+копать#dig#dug#dug
+обсуждать#discuss#discussed#discussed
+делать#do#did#done
+рисовать, тянуть#draw#drew#drawn
+пить#drink#drank#drunk
+водить автомобиль#drive#drove#driven
+кушать#eat#ate#eaten
+заканчивать#end#ended#ended
+объяснять#explain#explained#explained
+падать#fall#fell#fallen
+бояться#fear#feared#feared
+кормить#feed#fed#fed
+чувствовать#feel#felt#felt
+бороться#fight#fought#fought
+находить#find#found#found
+заканчивать#finish#finished#finished
+сбегать#flee#fled#fled
+летать#fly#flew#flown
+следовать#follow#followed#followed
+запрещать#forbid#forbade#forbidden
+забывать#forget#forgot#forgotten
+прощать#forgive#forgave#forgiven
+замораживать#freeze#froze#frozen
+получать#get#got#got (gotten)
+давать#give#gave#given
+идти#go#went#gone
+расти#grow#grew#grown
+висеть#hang#hung#hung
+случаться#happen#happened#happened
+иметь#have#had#had
+слышать#hear#heard#heard
+помогать#help#helped#helped
+прятать#hide#hid#hidden
+ударять, попадать#hit#hit#hit
+держать#hold#held#held
+надеяться#hope#hoped#hoped
+причинять боль#hurt#hurt#hurt
+включать#include#included#included
+присоединять(ся)#join#joined#joined
+прыгать#jump#jumped#jumped
+сохранять, соблюдать#keep#kept#kept
+убивать#kill#killed#killed
+знать#know#knew#known
+класть#lay#laid#laid
+вести, лидировать#lead#led#led
+учиться, узнавать#learn#learnt (learned)#learnt (learned)
+покидать, оставлять#leave#left#left
+давать взаймы#lend#lent#lent
+позволять#let#let#let
+лежать#lie#lay#lain
+зажигать, освещать#light#lit#lit
+слушать#listen#listened#listened
+жить#live#lived#lived
+смотреть#look#looked#looked
+терять, проигрывать#lose#lost#lost
+любить#love#loved#loved
+делать, мастерить#make#made#made
+иметь в виду#mean#meant#meant
+встречать, знакомиться#meet#met#met
+переезжать#move#moved#moved
+нуждаться#need#needed#needed
+предлагать#offer#offered#offered
+открывать#open#opened#opened
+заказывать#order#ordered#ordered
+проходить, проезжать#pass#passed#passed
+платить#pay#paid#paid
+планировать#plan#planned#planned
+играть#play#played#played
+готовить, подготавливать#prepare#prepared#prepared
+производить#produce#produced#produced
+запрещать#prohibit#prohibited#prohibited
+снабжать#provide#provided#provided
+класть, ставить#put#put#put
+поднимать#raise#raised#raised
+читать#read#read#read
+получать#receive#received#received
+помнить#remember#remembered#remembered
+напоминать#remind#reminded#reminded
+повторять#repeat#repeated#repeated
+отвечать#respond#responded#responded
+возвращаться#return#returned#returned
+ездить верхом#ride#rode#ridden
+звонить#ring#rang#rung
+возрастать, подниматься#rise#rose#risen
+бежать#run#ran#run
+сказать, произнести#say#said#said
+искать#search#searched#searched
+видеть#see#saw#seen
+искать#seek#sought#sought
+казаться#seem#seemed#seemed
+продавать#sell#sold#sold
+отправлять#send#sent#sent
+служить#serve#served#served
+устанавливать#set#set#set
+трясти#shake#shook#shaken
+светить, сиять#shine#shone#shone
+стрелять#shoot#shot#shot
+кричать#shout#shouted#shouted
+показывать#show#showed#shown
+сжиматься#shrink#shrank#shrunk
+закрывать, затворять#shut#shut#shut
+петь#sing#sang#sung
+сидеть#sit#sat#sat
+спать#sleep#slept#slept
+скользить#slide#slid#slid
+пахнуть, нюхать#smell#smelt#smelt
+улыбаться#smile#smiled#smiled
+решать проблему#solve#solved#solved
+говорить#speak#spoke#spoken
+произносить или писать по буквам#spell#spelt (spelled)#spelt (spelled)
+тратить, проводить время#spend#spent#spent
+разлить#spill#spilt (spilled)#spilt (spilled)
+крутить#spin#spun#spun
+разделять, раскалывать#split#split#split
+портить#spoil#spoilt (spoiled)#spoilt (spoiled)
+разворачивать, распространять#spread#spread#spread
+стоять#stand#stood#stood
+начинать#start#started#started
+оставаться#stay#stayed#stayed
+воровать#steal#stole#stolen
+жалить#sting#stung#stung
+вонять#stink#stank#stunk
+прекращать#stop#stopped#stopped
+бастовать, ударять#strike#struck#struck
+учиться#study#studied#studied
+предлагать, советовать#suggest#suggested#suggested
+поддерживать#support#supported#supported
+клясться, ругаться#swear#swore#sworn
+подметать#sweep#swept#swept
+опухать#swell#swelled#swollen (swelled)
+плавать#swim#swam#swum
+брать, взять#take#took#taken
+болтать#talk#talked#talked
+преподавать#teach#taught#taught
+рвать#tear#tore#torn
+рассказывать#tell#told#told
+благодарить#thank#thanked#thanked
+думать#think#thought#thought
+бросать#throw#threw#thrown
+переводить#translate#translated#translated
+путешествовать#travel#travelled#travelled
+стараться#try#tried#tried
+поворачивать#turn#turned#turned
+понимать#understand#understood#understood
+использовать#use#used#used
+навещать#visit#visited#visited
+будить#wake#woke#woken
+гулять#walk#walked#walked
+хотеть#want#wanted#wanted
+смотреть#watch#watched#watched
+носить (одежду)#wear#wore#worn
+побеждать#win#won#won
+обматывать, изгибаться#wind#wound#wound
+желать#wish#wished#wished
+работать#work#worked#worked
+писать#write#wrote#written
