@@ -83,6 +83,7 @@ namespace Polyglot
             {
                 Console.WriteLine(bilder.GetTask(task, TaskType.First));
                 var typedKey = Console.ReadKey();
+                Console.WriteLine();
                 switch (typedKey.Key)
                 {
                     case ConsoleKey.D1:
