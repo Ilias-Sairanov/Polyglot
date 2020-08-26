@@ -38,7 +38,7 @@ namespace Polyglot
             }
         }
 
-        public void NextTask()
+        public void ChangeTypeTimePronoun()
         {
             var rnd = new Random();
             SentenceTime = (SentenceTime)rnd.Next(3);
@@ -47,9 +47,9 @@ namespace Polyglot
             Pronoun = new string[] { pronounsRus[random], pronounsEng[random] };
         }
 
-        public void NewVerb()
+        public void ChangeVerb()
         {
-            NextTask();
+            ChangeTypeTimePronoun();
             var rnd = new Random();
             Verb = verbs[rnd.Next(verbs.Count)];
             for (int i = 0; i < Verb.Length; i++)
@@ -61,6 +61,7 @@ namespace Polyglot
 
     class TaskBuilder
     {
+        public int RightAnswersCount { get; private set; }
         public string GetTask(Task task)
         {
             string str = string.Format($"Время: {task.SentenceTime}\n" +
@@ -69,33 +70,61 @@ namespace Polyglot
                 $"Глагол: {task.Verb[0]}");
             return str;
         }
+
+        public string GetAnswer(Task task)
+        {
+            return "ANSWER";
+        }
+
+        public void IsAnwerRight(bool isRight)
+        {
+            if (isRight) 
+                RightAnswersCount++;
+        }
+    }
+
+    class GameMenu
+    {
+        private Task task;
+
+        public GameMenu(Task task)
+        {
+            this.task = task;
+        }
     }
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var task = new Task();
-            var bilder = new TaskBuilder();
+            var builder = new TaskBuilder();
             bool gameOver = false;
             while (!gameOver)
             {
-                Console.WriteLine(bilder.GetTask(task));
-                Console.WriteLine("1: новое задание\t2:заменить глагол");
+                Console.WriteLine($"Количество верных ответов: {builder.RightAnswersCount}");
+                Console.WriteLine(builder.GetTask(task));
+                Console.WriteLine("\nНажмите любую клавишу, чтобы показать ответ");
+                Console.ReadKey();
+                Console.WriteLine("\n" + builder.GetAnswer(task));
+                Console.WriteLine("Ответ был верный?");
+                Console.WriteLine("1: да 2: нет");
+                var isRight = Console.ReadKey().KeyChar;
+                if (int.Parse(isRight.ToString()) == 1) builder.IsAnwerRight(true);
+                Console.WriteLine("\n1: новое задание\t2:заменить глагол");
                 var typedKey = Console.ReadKey();
-                Console.WriteLine();
                 switch (typedKey.Key)
                 {
                     case ConsoleKey.D1:
-                        task.NextTask();
+                        task.ChangeTypeTimePronoun();
                         break;
                     case ConsoleKey.D2:
-                        task.NewVerb();
+                        task.ChangeVerb();
                         break;
                     default:
                         break;
                 }
-                Console.WriteLine();
+                Console.Clear();
             }
         }
     }
