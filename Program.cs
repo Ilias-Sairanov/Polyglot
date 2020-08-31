@@ -68,10 +68,6 @@ namespace Polyglot
         public int WrongAnswersCount { get; private set; }
         public string GetTask(Task task)
         {
-            //for (int i = 0; i < Verb.Length; i++)
-            //{
-            //    Verb[i] = Verb[i].Substring(0, 1).ToUpper() + Verb[i].Substring(1);
-            //}
             string str = string.Format($"Время: {task.SentenceTime}\n" +
                 $"Тип: {task.SentenceType}\n" +
                 $"Местоимение: {task.Pronoun[0]}\n" +
